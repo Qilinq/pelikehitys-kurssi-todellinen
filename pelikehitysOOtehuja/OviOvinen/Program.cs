@@ -1,4 +1,4 @@
-﻿namespace Ovi
+﻿namespace OviOvinen
 {
     internal class Program
     {
